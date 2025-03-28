@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background: rgb(143,179,255);
+    background: linear-gradient(90deg, rgba(143,179,255,0.913624824929972) 10%, rgba(145,245,202,0.871608018207283) 74%);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+img{width: 400px;}
+
